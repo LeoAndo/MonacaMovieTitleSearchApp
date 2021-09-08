@@ -1,1 +1,3 @@
-# monaca-movie-title-search-app-samples
+# capture
+
+<img src="capture.gif" width=320 />
