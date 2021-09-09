@@ -1,7 +1,11 @@
-# Features
+# 機能
 
 - jquery mobile
-- ajax
+- Ajax
+
+# 動作確認
+
+Ajaxは同じドメイン同士での通信を前提としているので、ブラウザ上で確認すると、クロスドメインによるエラーが発生するchromeのプラグインを入れることで回避策はあるようだが、Andorid or iOS実機で確認してください
 
 # capture
 
