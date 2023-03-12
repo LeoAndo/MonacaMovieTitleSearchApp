@@ -21,4 +21,4 @@ Once the operation check was performed only on the actual Android or iOS device.
 
 # capture
 
-<img src="capture.gif" width=320 />
+<img src="./capture.gif" width=320 />
